@@ -142,11 +142,6 @@ Please open an issue or discussion with your suggestions.
 📄 License
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 
-🌟 Connect & Collaborate
-<div align="center">
-https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/TryHackMe-Profile-0D0C22?style=for-the-badge&logo=tryhackme&logoColor=white
-https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 </div>
 <div align="center">
